@@ -1,2 +1,2 @@
-# C-O-BEV
+# CollaborateBEV
 Code will be released soon.
